@@ -1,8 +1,19 @@
-# React + Vite
+# **HealthCare Dashboard**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **responsive and interactive healthcare dashboard** that displays patient details, diagnosis history, vitals, and lab results. The dashboard dynamically updates when a patient is selected from the sidebar, fetching real-time data from an API.
 
-Currently, two official plugins are available:
+## **Technologies Used**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+•  **React.js** – Frontend framework
+
+•  **Chart.js** – For blood pressure visualizations
+
+•  **Axios** – API requests
+
+•  **CSS3** – Styling and layout
+
+•  **Node.js & npm** – Package management
+
+## To set up the project, run:
+`$ npm install`
+`$ npm run dev`

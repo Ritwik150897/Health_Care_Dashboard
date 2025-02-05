@@ -1,0 +1,15 @@
+.diagnosis-history-container {
+    background: #FFFFFF;
+    padding: 20px;
+    border-radius: 15px;
+    width: 93%;
+    height: 68%;
+
+}
+
+.diagnosis-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #072635;
+    margin-bottom: 15px;
+}

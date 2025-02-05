@@ -1,0 +1,16 @@
+.dashboard {
+    display: flex;
+    width: 90%;
+    height: 98%;
+    padding-left: 20px;
+}
+
+.Left-container{
+    width: 75%;
+    height: 100%;
+}
+
+.Right-container{
+    width: 25%;
+    height: 100%;
+}
